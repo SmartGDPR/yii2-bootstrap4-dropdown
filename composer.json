@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-bootstrap4-dropdown",
+    "name": "smartgdpr/yii2-bootstrap4-dropdown",
     "description": "Enhanced Bootstrap 4 dropdown widget for Yii2 with nested submenu support",
     "keywords": [
         "dropdown",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "kartik-v/yii2-krajee-base": ">=1.9",
-        "yiisoft/yii2-bootstrap4": "*"
+        "smartgdpr/yii2-bootstrap4": "0.0.10"
     },
     "autoload": {
         "psr-4": {
